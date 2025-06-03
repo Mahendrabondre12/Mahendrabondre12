@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Mahendra Bondre 👋</h1>
-<p align="center">🌟 Student | Aspiring Python Developer | Entrepreneurial Spirit | Always Ready to Shine 🌟</p>
+<p align="center">🌟 Student | Aspiring Python Developer | Always Ready to Shine 🌟</p>
 
 ---
 
@@ -13,25 +13,63 @@
 - 🐍 **Python enthusiast**—I love creating, automating, and solving problems with code.
 - 💡 Always looking for opportunities to **shine** and learn something new.
 - 🚀 Ready to take on **internships** and real-world challenges.
-- 💼 Exploring the world of **entrepreneurship** and innovation.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Programming Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Student-0078D4?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entrepreneurship-FFB300?style=for-the-badge&logo=star&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shine-F48C06?style=for-the-badge&logo=sparkles&logoColor=white" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="100" height="100"/>
+    <br />
+    <strong>Python</strong>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" alt="Student" width="100" height="100"/>
+    <br />
+    <strong>Student</strong>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img src="https://img.icons8.com/fluency/96/000000/sparkling.png" alt="Shine" width="100" height="100"/>
+    <br />
+    <strong>Shine</strong>
+  </div>
+</div>
+
+---
+
+## 🎨 Front-End Skills
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="100" height="100"/>
+    <br />
+    <strong>HTML5</strong>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="100" height="100"/>
+    <br />
+    <strong>CSS3</strong>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100"/>
+    <br />
+    <strong>JavaScript</strong>
+  </div>
+</div>
 
 ---
 
 ## 🔗 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-bondre-a77a3b2a0/)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mahendrabondre21)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahendra-bondre-a77a3b2a0/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/mahendrabondre21" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="50" height="50" style="margin: 10px;"/>
+  </a>
+</p>
 
 ---
 
@@ -39,7 +77,6 @@
 
 - Advanced Python programming
 - Real-world project development
-- Entrepreneurship and innovation
 
 ---
 
@@ -52,5 +89,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahendrabondre12&show_icons=true&theme=radical" alt="Mahendra's GitHub Stats"/>
 </p>
-
----
