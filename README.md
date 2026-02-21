@@ -1,12 +1,13 @@
 # Skills
 
-## Web Development Skills
+## Comprehensive Skills
 
-- ![HTML](https://img.shields.io/badge/HTML-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-- ![CSS](https://img.shields.io/badge/CSS-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
-- ![React.js](https://img.shields.io/badge/React.js-?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
-- ![Node.js](https://img.shields.io/badge/Node.js-?style=for-the-badge&logo=node.js&logoColor=white&color=8CC84B)
-- ![Express.js](https://img.shields.io/badge/Express.js-?style=for-the-badge&logo=express&logoColor=white&color=4B1F1F)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-?style=for-the-badge&logo=tailwind-css&logoColor=white&color=06B6D4)
+- ![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-007ACC?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
