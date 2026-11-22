@@ -1,399 +1,111 @@
-div align="center">\
-\
-\# 👋 Hi, I'm \*\*Mahendra Bondre\*\*\
-\
-\### 💻 Computer Science Engineering Student | 🚀 Aspiring Software Engineer\
-\
-\<p>\
-&#x20; \<a href="https\://github.com/Mahendrabondre12">\
-&#x20;   \<img src="https\://img.shields.io/badge/GitHub-Mahendrabondre12-181717?style=for-the-badge&logo=github&logoColor=white" />\
-&#x20; \</a>\
-&#x20; \<a href="mailto:mahendrabondre295@gmail.com">\
-&#x20;   \<img src="https\://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />\
-&#x20; \</a>\
-&#x20; \<a href="https\://www\.linkedin.com/">\
-&#x20;   \<img src="https\://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />\
-&#x20; \</a>\
-\</p>\
-\
-\<img src="https\://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" />\
-\
-\</div>\
-\
-\---\
-\
-\## 🧑‍💻 About Me\
-\
-\<table>\
-\<tr>\
-\<td width="60%">\
-\
-I'm a \*\*Computer Science Engineering student\*\* passionate about building software, exploring Artificial Intelligence, and solving real-world problems through technology.\
-\
-\- 🎓 Computer Science Engineering Student\
-\- 💻 Aspiring Software Engineer\
-\- 🌐 Full-Stack Development Enthusiast\
-\- 🤖 Exploring AI / ML & Generative AI\
-\- 📊 Interested in Data Science\
-\- 🧠 Practicing Data Structures & Algorithms\
-\- ☁️ Exploring Cloud Technologies\
-\- 🚀 Building real-world projects\
-\- 📚 Continuously learning new technologies\
-\
-\</td>\
-\
-\<td width="40%" align="center">\
-\
-\<img src="https\://github-readme-stats.vercel.app/api?username=Mahendrabondre12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="100%"/>\
-\
-\</td>\
-\</tr>\
-\</table>\
-\
-\---\
-\
-\# 🛠️ Tech Stack\
-\
-\## 💻 Programming Languages\
-\
-\<div align="center">\
-\
-\<table>\
-\<tr>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>\
-\
-\### Python\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>\
-\
-\### C++\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>\
-\
-\### JavaScript\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>\
-\
-\### SQL\
-\
-\</td>\
-\
-\</tr>\
-\</table>\
-\
-\</div>\
-\
-\---\
-\
-\## 🌐 Web Development\
-\
-\<div align="center">\
-\
-\<table>\
-\<tr>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>\
-\
-\### HTML5\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>\
-\
-\### CSS3\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>\
-\
-\### React\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>\
-\
-\### Node.js\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60"/>\
-\
-\### Firebase\
-\
-\</td>\
-\
-\</tr>\
-\</table>\
-\
-\</div>\
-\
-\---\
-\
-\## 🤖 AI, Data Science & ML\
-\
-\<div align="center">\
-\
-\<table>\
-\<tr>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>\
-\
-\### NumPy\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-\<img src="https\://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>\
-\
-\### Pandas\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-🤖\
-\
-\### Machine Learning\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-🧠\
-\
-\### Generative AI\
-\
-\</td>\
-\
-\<td align="center" width="150">\
-\
-🔗\
-\
-\### LLMs\
-\
-\</td>\
-\
-\</tr>\
-\</table>\
-\
-\</div>\
-\
-\---\
-\
-\## ☁️ Tools & Technologies\
-\
-\<div align="center">\
-\
-\<img src="https\://skillicons.dev/icons?i=git,github,vscode,firebase,gcp,nodejs,npm,linux" />\
-\
-\</div>\
-\
-\---\
-\
-\# 📚 Currently Learning\
-\
-\<div align="center">\
-\
-\| Technology | Focus |\
-\|:---:|:---|\
-\| 🐍 \*\*Python\*\* | Programming & Problem Solving |\
-\| ⚡ \*\*JavaScript\*\* | Advanced JavaScript & Web Development |\
-\| ⚛️ \*\*React.js\*\* | Frontend Development |\
-\| 🟢 \*\*Node.js\*\* | Backend Development |\
-\| 🧠 \*\*DSA\*\* | Problem Solving & Algorithms |\
-\| 🤖 \*\*Machine Learning\*\* | AI & Predictive Models |\
-\| ✨ \*\*Generative AI\*\* | LLMs & AI Applications |\
-\| ☁️ \*\*Google Cloud\*\* | Cloud Computing |\
-\
-\</div>\
-\
-\---\
-\
-\# 🚀 Featured Projects\
-\
-\<div align="center">\
-\
-\<table>\
-\
-\<tr>\
-\
-\<td width="50%">\
-\
-\### 🌐 Personal Portfolio\
-\
-A responsive developer portfolio showcasing my skills, projects, achievements, and learning journey.\
-\
-\*\*Tech:\*\*  \
-\`HTML\` \`CSS\` \`JavaScript\` \`React\`\
-\
-\</td>\
-\
-\<td width="50%">\
-\
-\### 🚗 Service Delivery Platform\
-\
-A concept for connecting customers with local laptop and mobile repair services.\
-\
-\*\*Tech:\*\*  \
-\`React\` \`Node.js\` \`Firebase\`\
-\
-\</td>\
-\
-\</tr>\
-\
-\<tr>\
-\
-\<td width="50%">\
-\
-\### 🤖 AI Projects\
-\
-Exploring practical applications of Machine Learning, Generative AI, and LLM-based systems.\
-\
-\*\*Tech:\*\*  \
-\`Python\` \`AI/ML\` \`LLMs\`\
-\
-\</td>\
-\
-\<td width="50%">\
-\
-\### 📊 Data Science Projects\
-\
-Working with data analysis, visualization, and machine learning concepts.\
-\
-\*\*Tech:\*\*  \
-\`Python\` \`NumPy\` \`Pandas\`\
-\
-\</td>\
-\
-\</tr>\
-\
-\</table>\
-\
-\</div>\
-\
-\---\
-\
-\# 👁️ Profile Visitors\
-\
-\<div align="center">\
-\
-\<img src="https\://komarev.com/ghpvc/?username=Mahendrabondre12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />\
-\
-\</div>\
-\
-\---\
-\
-\# 📊 GitHub Analytics\
-\
-\<div align="center">\
-\
-\<img src="https\://github-readme-stats.vercel.app/api?username=Mahendrabondre12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>\
-\
-\<img src="https\://github-readme-stats.vercel.app/api/top-langs/?username=Mahendrabondre12&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>\
-\
-\</div>\
-\
-\<br>\
-\
-\<div align="center">\
-\
-\<img src="https\://streak-stats.demolab.com?user=Mahendrabondre12&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>\
-\
-\</div>\
-\
-\---\
-\
-\# 🏆 GitHub Achievements\
-\
-\<div align="center">\
-\
-\<img src="https\://github-profile-trophy.vercel.app/?username=Mahendrabondre12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>\
-\
-\</div>\
-\
-\---\
-\
-\# 📈 Contribution Graph\
-\
-\<div align="center">\
-\
-\<img src="https\://github-readme-activity-graph.vercel.app/graph?username=Mahendrabondre12&theme=tokyo-night&hide_border=true&area=true" width="95%" />\
-\
-\</div>\
-\
-\---\
-\
-\# 🎯 2026 Goals\
-\
-\`\`\`text\
-╔════════════════════════════════════════════════════════════╗\
-║                    MY DEVELOPMENT GOALS                    ║\
-╠════════════════════════════════════════════════════════════╣\
-║  🧠 Master Data Structures & Algorithms                    ║\
-║  💻 Become a strong Full-Stack Developer                   ║\
-║  🤖 Build practical AI/ML applications                     ║\
-║  ✨ Explore Generative AI & LLM applications               ║\
-║  ☁️  Improve Cloud Computing skills                        ║\
-║  🚀 Build and deploy real-world projects                   ║\
-║  🌍 Contribute to Open Source                              ║\
-║  📚 Keep learning and improving every day                  ║\
-╚════════════════════════════════════════════════════════════╝\
-\`\`\`\
-\
-\---\
-\
-\# 🌐 Connect With Me\
-\
-\<div align="center">\
-\
-\<a href="https\://github.com/Mahendrabondre12">\
-&#x20; \<img src="https\://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>\
-\</a>\
-\
-\<a href="https\://www\.linkedin.com/">\
-&#x20; \<img src="https\://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>\
-\</a>\
-\
-\<a href="mailto:mahendrabondre295@gmail.com">\
-&#x20; \<img src="https\://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>\
-\</a>\
-\
-\</div>\
-\
-\---\
-\
-\<div align="center">\
-\
-\### 💡 \*"Learn. Build. Share. Improve."\*\
-\
-\<img src="https\://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>\
-\
-⭐ **Thanks for visiting my profile!** MAKE FILD AND
+# <div align="center">🟢 MAHENDRA BONDRE</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=180&section=header&text=MAHENDRA%20BONDRE&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Student%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=17" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Python+%7C+C%2B%2B+%7C+JavaScript;Exploring+AI+%26+Data+Science;Building+%2C+Learning+%2C+Innovating" />
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+> whoami
+Mahendra Bondre
+
+> role
+Computer Science Student | Aspiring Software Engineer
+
+> mission
+Build. Learn. Innovate. Repeat.
+```
+
+</div>
+
+## 🟢 About Me
+
+- 🎓 Computer Science & Engineering Student
+- 📚 Pursuing BS in Data Science and Applications at IIT Madras
+- 💻 Interested in Software Engineering and Development
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🐍 Learning Python and problem-solving
+- ⚙️ Exploring C++, JavaScript and Data Structures
+- 🚀 Building projects and learning through practical experience
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,firebase,git,github,vscode,linux" />
+
+</div>
+
+---
+
+## 🟩 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mahendrabondre12&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=000000" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendrabondre12&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=000000" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendrabondre12&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="80%" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Kshir AI
+Collaborative hackathon project exploring AI-powered solutions.
+
+### 🐍 CS50P – Python
+Python exercises and programming projects developed while learning Python.
+
+### 🌐 Web Development
+Exploring modern web development with HTML, CSS, JavaScript and React.
+
+---
+
+## 📚 Currently Learning
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, C++ |
+| Web Development | HTML, CSS, JavaScript, React |
+| Computer Science | DSA, OOP |
+| AI & Data | AI, Machine Learning, Data Science |
+| Tools | Git, GitHub, VS Code, Linux |
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/Mahendrabondre12">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=120&section=footer" />
+
+### <span style="color:#00FF41">BUILD • LEARN • CREATE • REPEAT</span>
+
+</div>
