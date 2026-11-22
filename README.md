@@ -396,6 +396,4 @@ Working with data analysis, visualization, and machine learning concepts.\
 \
 \<img src="https\://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>\
 \
-⭐ **Thanks for visiting my profile!** MAKE FILD AND<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mahendra%20Bondre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Science%20Learner&descAlignY=60&descSize=18" /><a href="https://github.com/Mahendrabondre12"><img src="https://img.shields.io/badge/GitHub-Mahendrabondre12-111827?style=for-the-badge&logo=github" /></a>
-<a href="mailto:mahendrabondre295@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+⭐ **Thanks for visiting my profile!** MAKE FILD AND
